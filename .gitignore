@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# models/*.joblib  # Included in repo for easy setup
+venv/
+.venv/
